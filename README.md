@@ -1,7 +1,6 @@
 # Airbnb Data Analysis and Visualization
 
-![image](https://github.com/praveendecode/Airbnb_Analysis/assets/95226524/f31de8ba-24bf-4a6b-8bc0-0315222dcacc)
-
+![image](https://github.com/Dineshkumar56/Airbnb-Analysis/assets/113771655/d2884e22-a1fa-4c04-b1cd-8f9d39eb3c02)
 
 
 # Overview
@@ -14,26 +13,6 @@
 - Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 - Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
 - Tableau Dashboard : Interactive eye-catching dashboard with awesome filter
-
-# Getting Started
-
-1. Clone the repository:
-   
-         https://github.com/praveendecode/Airbnb_Analysis
-
-3. Install required packages:
-   
-        pip install -r requirements.txt
-
-5. Run the Streamlit app:
-
-       streamlit run app.py
-
-7. Access the app in your browser :
-
-       http://localhost:8501
-
-4. Visit Tableau Dashbord  : [Visit Dashboard](https://public.tableau.com/views/airbnb_16981379902390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 # Methods
